@@ -1,38 +1,39 @@
-## 🌟 Islam Reda | LLM Engineer & Data Scientist
-
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&text=Islam%20Reda&desc=LLM%20Engineer%20%7C%20RAG%20Architect%20%7C%20Data%20Scientist&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=18&descAlign=50&descAlignY=70&color=0077B5&animation=fadeIn" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&text=Islam%20Reda&desc=LLM%20Engineer%20%7C%20RAG%20Architect%20%7C%20Data%20Scientist&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=18&descAlign=50&descAlignY=70&color=0077B5&animation=fadeIn" />
 </div>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-redabb/) 
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IslamReda1313@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-redabb/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IslamReda1313@gmail.com)
+
 </div>
 
 ---
 
-### 💡 Core Focus: Large Language Models (LLMs)
+## Core Focus: Large Language Models (LLMs)
 
 I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) specializing in deploying and optimizing LLMs for scalable, high-performance retrieval and generation tasks. My expertise spans fine-tuning state-of-the-art models and building robust Retrieval-Augmented Generation (RAG) systems.
 
-* **Fine-Tuning Expert:** Experienced in low-rank adaptation methods (QLoRA, LoRA) for resource-efficient model customization.
-* **RAG Architect:** Focused on advanced RAG patterns, including hybrid search (semantic + keyword) and handling massive, long-form documents.
+* **Fine-Tuning:** Experienced in low-rank adaptation methods (QLoRA, LoRA) for resource-efficient model customization.
+* **RAG Architecture:** Focused on advanced RAG patterns, including hybrid search (semantic + keyword) and handling massive, long-form documents.
 
 ---
 
-### 💼 Select Experience & Achievements
+## Experience & Achievements
 
-* **Samsung Internship (LLM Engineer):**
-    * Fine-tuned **Llama 3.1 (8B)** using QLoRA and 4-bit quantization on proprietary pricing data.
-    * **Result:** Achieved **75% accuracy** in complex product price prediction, significantly improving internal forecasting models.
-* **Freelance Data Scientist (Automation Pipeline):**
-    * Developed automated book summarization pipelines leveraging **LangChain** and chunking strategies to handle long-form content that exceeds standard context windows.
+**Samsung Internship (LLM Engineer)**
+* Fine-tuned **Llama 3.1 (8B)** using QLoRA and 4-bit quantization on proprietary pricing data.
+* **Result:** Achieved **75% accuracy** in complex product price prediction, significantly improving internal forecasting models.
+
+**Freelance Data Scientist (Automation Pipeline)**
+* Developed automated book summarization pipelines leveraging **LangChain** and chunking strategies to handle long-form content that exceeds standard context windows.
 
 ---
 
-### 🛠️ Technical Arsenal
+## Technical Arsenal
 
-| **Domain** | **Technologies** |
+| Domain | Technologies |
 | :--- | :--- |
 | **LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-D50032?style=flat&logo=qdrant&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
@@ -40,29 +41,29 @@ I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) speci
 
 ---
 
-### 🚀 Featured Projects (Focus: Scale & Performance)
+## Featured Projects
 
-#### 1️⃣ [RAG System for HR Operations](https://github.com/Islam-Reda-13/HR-Toolkit)
+### [RAG System for HR Operations](https://github.com/Islam-Reda-13/HR-Toolkit)
 *A high-performance RAG system built to manage and retrieve knowledge from **4,000+ HR documents**.*
 * **Architecture:** Built with **FastAPI**, **LangChain**, and **Qdrant** for vector indexing, backed by MongoDB.
 * **Impact:** Engineered a solution that achieved **87% retrieval accuracy** while maintaining **sub-2-second query latency** under production load.
 * **Innovation:** Implemented a unique **dual-database architecture** using Sentence-Transformers (384-dim) for optimized semantic search and retrieval speed.
 
-#### 2️⃣ [AI Website Summarizer](https://github.com/Islam-Reda-13/LLM-Website-Summary)
+### [AI Website Summarizer](https://github.com/Islam-Reda-13/LLM-Website-Summary)
 *An intelligent, web-scraping tool that uses advanced LLMs to generate structured summaries from lengthy website content.*
 * **Tech Stack:** **Gradio** UI, **BeautifulSoup** for scraping, and multiple LLMs via **OpenRouter** (e.g., Qwen, Deepseek).
 * **Feature:** Designed a modular architecture with streaming responses, allowing easy switching between various OpenRouter-hosted models without code changes.
 
 ---
 
-### 📈 Contributions & Activity
+## Contributions & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Islam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Reda-13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Islam-Reda-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br>
 
-* **I’m currently focused on:** Building robust semantic search systems using Qdrant and Sentence-Transformers.
-* **I’m looking to collaborate on:** Advanced Agentic RAG and fine-tuning projects using Llama or Mistral models.
+* **Current Focus:** Building robust semantic search systems using Qdrant and Sentence-Transformers.
+* **Collaboration:** Looking for Advanced Agentic RAG and fine-tuning projects using Llama or Mistral models.
