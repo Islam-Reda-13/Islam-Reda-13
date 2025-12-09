@@ -11,7 +11,6 @@
 
 ---
 
-## Core Focus: Large Language Models (LLMs)
 
 I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) specializing in deploying and optimizing LLMs for scalable, high-performance retrieval and generation tasks. My expertise spans fine-tuning state-of-the-art models and building robust Retrieval-Augmented Generation (RAG) systems.
 
@@ -54,16 +53,3 @@ I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) speci
 * **Tech Stack:** **Gradio** UI, **BeautifulSoup** for scraping, and multiple LLMs via **OpenRouter** (e.g., Qwen, Deepseek).
 * **Feature:** Designed a modular architecture with streaming responses, allowing easy switching between various OpenRouter-hosted models without code changes.
 
----
-
-## Contributions & Activity
-
-* **Current Focus:** Building robust semantic search systems using Qdrant and Sentence-Transformers.
-* **Collaboration:** Looking for Advanced Agentic RAG and fine-tuning projects using Llama or Mistral models.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Islam-Reda-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Islam-Reda-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
