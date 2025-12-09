@@ -58,12 +58,12 @@ I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) speci
 
 ## Contributions & Activity
 
+* **Current Focus:** Building robust semantic search systems using Qdrant and Sentence-Transformers.
+* **Collaboration:** Looking for Advanced Agentic RAG and fine-tuning projects using Llama or Mistral models.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Islam-Reda-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Islam-Reda-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
-
-<br>
-
-* **Current Focus:** Building robust semantic search systems using Qdrant and Sentence-Transformers.
-* **Collaboration:** Looking for Advanced Agentic RAG and fine-tuning projects using Llama or Mistral models.
