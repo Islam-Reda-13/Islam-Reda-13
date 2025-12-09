@@ -1,11 +1,11 @@
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Islam%20Reda&desc=AI%20Engineer%20|%20LLM%20Specialist%20|%20Data%20Scientist&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=65&theme=cobalt&animation=fadeIn" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&text=Islam%20Reda&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Data%20Scientist&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=18&descAlign=50&descAlignY=70&color=gradient&animation=fadeIn" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/islam-reda-13/) 
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IslamReda1313@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-redabb/) 
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IslamReda1313@gmail.com)
   
 </div>
 
@@ -13,13 +13,13 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) with a strong focus on Large Language Models (LLMs), NLP, and Deep Learning.
+[cite_start]I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0)[cite: 4, 5, 6]. I specialize in building and optimizing Large Language Models (LLMs) and RAG architectures for real-world applications.
 
-Most recently, I worked as an **LLM Engineering Intern at Samsung**, where I developed conversational AI systems and fine-tuned **Llama 3.1 (8B)** using QLoRA, achieving **75% accuracy** in price prediction tasks. I am passionate about bridging the gap between RAG architectures and fine-tuning to solve complex domain-specific problems.
+* [cite_start]**Samsung Internship (LLM Engineer):** Fine-tuned **Llama 3.1 (8B)** using QLoRA and 4-bit quantization, achieving **75% accuracy** in product price prediction[cite: 8, 10, 13, 14].
+* [cite_start]**Freelance Data Scientist:** Built automated book summarization pipelines using LangChain to handle long-form content exceeding standard context windows[cite: 16, 18, 20].
 
-- 🔭 **I’m currently working on:** Advanced RAG systems for HR automation.
-- 🧠 **I’m learning:** Agentic Workflows and Advanced Quantization techniques.
-- 👯 **I’m looking to collaborate on:** Open Source LLM projects and NLP research.
+- 🔭 **I’m currently working on:** Semantic search systems using Qdrant and Sentence-Transformers.
+- 👯 **I’m looking to collaborate on:** Fine-tuning open-source models (Llama, Mistral) and Agentic RAG.
 
 ---
 
@@ -38,20 +38,20 @@ Most recently, I worked as an **LLM Engineering Intern at Samsung**, where I dev
 
 #### 📂 [RAG System for HR Operations](https://github.com/Islam-Reda-13/HR-Toolkit)
 *A RAG-based knowledge retrieval system designed to process 4,000+ HR documents.*
-- **Tech:** FastAPI, Qdrant, MongoDB, LangChain.
-- **Impact:** Achieved **sub-2-second query responses** with **87% retrieval accuracy**.
-- **Key Feature:** Implemented dual-database architecture using sentence-transformers (384-dim) for semantic search.
+- [cite_start]**Tech:** FastAPI, Qdrant, MongoDB, LangChain[cite: 31].
+- [cite_start]**Impact:** Achieved **sub-2-second query responses** with **87% retrieval accuracy**[cite: 35].
+- [cite_start]**Key Feature:** Implemented dual-database architecture using sentence-transformers (384-dim) for semantic search[cite: 35].
 
 #### 📂 [AI Website Summarizer](https://github.com/Islam-Reda-13/LLM-Website-Summary)
 *An intelligent tool that scrapes and analyzes website content to generate structured summaries.*
-- **Tech:** Gradio, OpenAI API, BeautifulSoup, OpenRouter.
-- **Key Feature:** Utilizes OpenRouter-hosted LLMs (Qwen, Deepseek, Llama) with streaming responses and noise reduction.
+- [cite_start]**Tech:** Gradio, OpenAI API, BeautifulSoup, OpenRouter[cite: 37].
+- [cite_start]**Key Feature:** Utilizes OpenRouter-hosted LLMs (Qwen, Deepseek, Llama) with streaming responses and modular architecture[cite: 39].
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" alt="Islam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Reda-13&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Islam-Reda-13&show_icons=true&theme=radical&hide_border=true" alt="Islam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Reda-13&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
