@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Islam%20Reda&desc=LLM%20Engineer%20%7C%20RAG%20Architect%20%7C%20Data%20Scientist&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Islam%20Reda&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Machine%20Learning&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -12,44 +12,47 @@
 
 ---
 
+AI Engineering graduate (Mansoura University, GPA 3.82/4.0) with hands-on internship experience at Samsung and InTimeTec delivering data analysis, Power BI dashboards, and ML models on datasets exceeding 700K+ records. AWS Certified Solutions Architect and Deep Learning specialist. UAE-based on a family visa with no sponsorship requirement.
 
-I am an **AI Engineering Major** at **Mansoura University** (GPA 3.82/4.0) specializing in deploying and optimizing LLMs for scalable, high-performance retrieval and generation tasks. My expertise spans fine-tuning state-of-the-art models and building robust Retrieval-Augmented Generation (RAG) systems.
-
-* **Fine-Tuning:** Experienced in low-rank adaptation methods (QLoRA, LoRA) for resource-efficient model customization.
-* **RAG Architecture:** Focused on advanced RAG patterns, including hybrid search (semantic + keyword) and handling massive, long-form documents.
+* **Data Analysis & BI:** Power BI dashboards with DAX measures, KPI development, and EDA across large-scale operational datasets.
+* **Machine Learning:** Classification and regression models using XGBoost, Random Forest, and Scikit-learn on datasets up to 700K+ records.
+* **Data Engineering:** Python ETL pipelines, SQL query optimisation, and anomaly detection on high-volume daily data.
 
 ---
 
 ## Experience & Achievements
 
-**Samsung Internship (LLM Engineer)**
-* Fine-tuned **Llama 3.1 (8B)** using QLoRA and 4-bit quantization on proprietary pricing data.
-* **Result:** Achieved **75% accuracy** in complex product price prediction, significantly improving internal forecasting models.
+**Samsung — Data Analysis Intern**
+* Automated Python ETL workflows on 700K+ row datasets, delivering insights to 50+ stakeholders.
+* Designed SQL pipelines reducing query execution to under 200ms for live KPI tracking across 15K+ dashboards.
+* Built XGBoost and Random Forest models on 50K+ defect records achieving 92% accuracy, accelerating quality approvals by 27%.
 
-**Freelance Data Scientist (Automation Pipeline)**
-* Developed automated book summarization pipelines leveraging **LangChain** and chunking strategies to handle long-form content that exceeds standard context windows.
+**InTimeTec — Data Analysis Intern**
+* Built Power BI dashboards with 10+ features and 18 DAX measures analysing trip duration, delivery status, and regional delay patterns across 140K+ records.
+* Developed regression models (R²=0.84) forecasting warehouse processing times, cutting average processing time by 10 minutes and delivery delays by 20%.
 
 ---
 
-## Technical Arsenal
+## Technical Skills
 
 | Domain | Technologies |
 | :--- | :--- |
-| **LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-D50032?style=flat&logo=qdrant&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
-| **Core & DevOps** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **BI & Analysis** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **ML & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) |
+| **Core & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
 ## Featured Projects
 
-### [RAG System for HR Operations](https://github.com/Islam-Reda-13/HR-Toolkit)
-*A high-performance RAG system built to manage and retrieve knowledge from **4,000+ HR documents**.*
-* **Architecture:** Built with **FastAPI**, **LangChain**, and **Qdrant** for vector indexing, backed by MongoDB.
-* **Impact:** Engineered a solution that achieved **87% retrieval accuracy** while maintaining **sub-2-second query latency** under production load.
-* **Innovation:** Implemented a unique **dual-database architecture** using Sentence-Transformers (384-dim) for optimized semantic search and retrieval speed.
+### [Employee Attrition Prediction System](https://github.com/Islam-Reda-13/employee-attrition)
+*End-to-end attrition analysis and classification on the IBM HR dataset (1,470 records, 35 attributes).*
+* Built SVM, XGBoost, and Logistic Regression models achieving 91% accuracy and 0.90 F1-score.
+* Applied three feature selection methods (RF importance, RFECV, Chi-squared) with SMOTE for class imbalance.
+* Identified that 60% of attrition concentrated in the lowest income bracket through EDA and Power BI visualisations.
 
-### [AI Website Summarizer](https://github.com/Islam-Reda-13/LLM-Website-Summary)
-*An intelligent, web-scraping tool that uses advanced LLMs to generate structured summaries from lengthy website content.*
-* **Tech Stack:** **Gradio** UI, **BeautifulSoup** for scraping, and multiple LLMs via **OpenRouter** (e.g., Qwen, Deepseek).
-* **Feature:** Designed a modular architecture with streaming responses, allowing easy switching between various OpenRouter-hosted models without code changes.
+### [Real Estate USA Sales Analysis](https://github.com/Islam-Reda-13/real-estate-usa)
+*End-to-end analysis of US residential real estate sales using BigQuery SQL and Power BI.*
+* Cleaned 113K+ property records in BigQuery — deduplication via window functions, null resolution, and city name standardisation.
+* Built a 3-page Power BI dashboard across 12 states and 23 years covering pricing trends, seasonal sales volume, and property characteristics.
+* Identified New Jersey as the top market by volume (20K+ properties) and New York by market size ($21bn).
